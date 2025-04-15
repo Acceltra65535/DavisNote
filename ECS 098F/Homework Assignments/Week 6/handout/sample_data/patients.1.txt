@@ -1,0 +1,23 @@
+3
+John Doe
+    M
+    07/16/1984
+    2
+    Facial Agoricosis
+    Agpentive Colon
+    1
+    Pancrebalamin
+Jane Foe
+    F
+    01/31/2000
+    0
+    0
+Phenste Tot
+    M
+    02/28/1999
+    1
+    Bacterial Fradular Syndrome
+    3
+    Amacelex
+    Benzocerol Atracumulin
+    Oratosine
