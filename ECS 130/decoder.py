@@ -1,2 +1,0 @@
-line = '30104E2D570B96FB4FE163D0793A3011000A003300380038003300390030FF'
-print(bytes.fromhex(line).decode('utf-16-be'))
